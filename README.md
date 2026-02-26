@@ -182,5 +182,5 @@ python3 oscilloscope.py --port COM3 --rate 44100
 **Sanjeev Kumar**
 MSc Embedded Systems Engineering, University of Leeds (2025–2026)
 
-GitHub: [sanjusaravananx2](https://github.com/sanjusaravananx2)
+GitHub: [sanjusaravananx2]((https://github.com/sanjusaravananx2-hub))
 LinkedIn: [linkedin.com/in/sanjeev-kumarx2](https://linkedin.com/in/sanjeev-kumarx2)
