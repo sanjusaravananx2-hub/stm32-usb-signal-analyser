@@ -4,8 +4,6 @@ A real-time USB oscilloscope and FFT spectrum analyser built on the STM32F411CEU
 The firmware streams 12-bit ADC samples over USB CDC at up to 500 kHz.
 A Python host application displays live waveform and frequency spectrum.
 
-![Live oscilloscope screenshot](<output-waveform.png>)
-
 ---
 
 ## Features
