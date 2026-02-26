@@ -1,0 +1,15 @@
+../Core/Src/adc_capture.c:34:13:start_dma	8	static
+../Core/Src/adc_capture.c:40:13:stop_dma	8	static
+../Core/Src/adc_capture.c:50:6:ADC_Capture_Init	8	static
+../Core/Src/adc_capture.c:60:6:ADC_Capture_Start	8	static
+../Core/Src/adc_capture.c:71:6:ADC_Capture_Stop	8	static
+../Core/Src/adc_capture.c:77:6:ADC_Capture_Single	8	static
+../Core/Src/adc_capture.c:88:10:ADC_Capture_SetRate	40	static
+../Core/Src/adc_capture.c:119:10:ADC_Capture_GetRate	4	static
+../Core/Src/adc_capture.c:124:6:ADC_Capture_SetChannel	40	static
+../Core/Src/adc_capture.c:147:15:ADC_Capture_GetChannel	4	static
+../Core/Src/adc_capture.c:152:20:ADC_Capture_GetState	4	static
+../Core/Src/adc_capture.c:157:11:ADC_Capture_GetReadyBuffer	8	static
+../Core/Src/adc_capture.c:174:11:ADC_Capture_GetRawBuffer	4	static
+../Core/Src/adc_capture.c:183:6:HAL_ADC_ConvHalfCpltCallback	16	static
+../Core/Src/adc_capture.c:190:6:HAL_ADC_ConvCpltCallback	16	static

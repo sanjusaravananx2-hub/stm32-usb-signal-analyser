@@ -1,0 +1,13 @@
+!SESSION 2026-02-26 15:38:52.005 -----------------------------------------------
+eclipse.buildId=Version 2.1.0
+java.version=21.0.9
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_001
+Framework arguments:  -keyring /Users/sanjeevkumar/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -keyring /Users/sanjeevkumar/.eclipse_keyring
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2026-02-26 15:39:23.241
+!MESSAGE Log4j2 initialized with config file /Users/sanjeevkumar/Desktop/usb-signal-analyser/.metadata/.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2026-02-26 15:39:26.046
+!MESSAGE Started RMI Server, listening on port 41337

@@ -1,0 +1,2 @@
+../Core/Src/app_main.c:22:6:App_Init	8	static
+../Core/Src/app_main.c:32:6:App_MainLoop	24	static
