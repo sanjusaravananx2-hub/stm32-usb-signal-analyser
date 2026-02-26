@@ -1,0 +1,26 @@
+# Build output
+Debug/
+Release/
+*.o
+*.d
+*.elf
+*.hex
+*.bin
+*.map
+*.list
+*.su
+
+# IDE files
+.settings/
+.launches/
+*.launch
+
+# macOS
+.DS_Store
+
+# STM32CubeIDE workspace
+.mxproject
+STM32-USB-Signal-Analyser/
+.project
+.cproject
+**/.DS_Store
